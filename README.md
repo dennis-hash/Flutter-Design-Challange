@@ -1,16 +1,10 @@
-# food_ordering
+# food_ordering App Design Challange
 
-A new Flutter project.
+**Create UI for a food ordering app**
 
-## Getting Started
+![WhatsApp Image 2023-05-29 at 4 32 11 AM](https://github.com/dennis-hash/Flutter-Design-Challange/assets/85708395/2d32f164-df54-4008-81dc-b908e7d64cce)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2023-05-29 at 4 31 58 AM](https://github.com/dennis-hash/Flutter-Design-Challange/assets/85708395/3e39dfd7-81d6-4c87-9537-f7fcd3f2b7b8)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
